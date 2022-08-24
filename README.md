@@ -10,7 +10,7 @@ Gustavo just started an e-commerce startup based in Portugal that recently opene
 2. Generate a group from our customers based on their loyalty.
 3. Give insight(s) and recommendation(s)
 
-**To-Do**
+**To-Do List**
 1. Exploratory Data Analysis
-2. RFM Analysis
-3. Cluster Analysis
+2. Cluster Analysis
+3. RFM Analysis
